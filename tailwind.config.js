@@ -13,6 +13,7 @@ export default {
         sm: "375px",
         md: "880px",
         lg: "1100px",
+        xl: "1350px",
       },
       fontSize: {
         body: "18px",
